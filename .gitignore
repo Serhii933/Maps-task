@@ -1,0 +1,8 @@
+.idea/
+Product.iml
+Store.iml
+Main.iml
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
